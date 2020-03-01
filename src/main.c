@@ -1,15 +1,3 @@
-//Purpose: The purpose of this project is to read in an Input text file
-//and a dicitonay file to perform editor functions on the input file using
-//the dictionary. Two editor functions can be performed which are accessed
-//via a menu. The user can either search and then replace a word or spell
-//check the input document. The user can then save their changed input file
-//to an output file.
-//
-//Assumptions: It is assumed that the user willbe realistic with their inputs when prompted.
-//It is also assumed that words entered in will never be longer than 500 characters,
-//as this would be very unusual.
-//
-
 #include "header.h"
 
 int main(int argc, char *argv[]) {
